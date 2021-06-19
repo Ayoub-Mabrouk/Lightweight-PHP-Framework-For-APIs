@@ -1,5 +1,4 @@
 title: Lightweight PHP Framework For APIs
 theme: jekyll-theme-cayman
 show_downloads: true
-avatar: "avatar.png"
-favicon: assets/favicon.ico
+favicon: favicon.ico
