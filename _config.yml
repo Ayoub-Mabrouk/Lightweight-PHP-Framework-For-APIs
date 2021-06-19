@@ -1,3 +1,6 @@
 title: Lightweight PHP Framework For APIs
 theme: jekyll-theme-cayman
 show_downloads: true
+avatar: "/assets/avatar.png"
+favicon: assets/favicon.ico
+search_in_topnav: true
